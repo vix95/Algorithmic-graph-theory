@@ -1,0 +1,26 @@
+digraph G {
+
+  subgraph cluster_0 {
+    color=black;
+    node [style=filled];
+    a0 -> a1 -> a2 -> a3 -> a0;
+    label = "Graph 1";
+  }
+
+  subgraph cluster_1 {
+    color=black;
+    node [style=filled];
+    b0 -> b2 -> b1 -> b0 -> b4 -> b5 -> b3 -> b1;
+    label = "Graph 2";
+  }
+
+  subgraph cluster_2 {
+    color=black;
+    node [style=filled];
+    c0 -> c1 -> c0 -> c2 -> c0 -> c3 -> c0;
+    label = "Graph 3";
+  }
+
+    c1 -> c3;
+    c2 -> c3;
+}

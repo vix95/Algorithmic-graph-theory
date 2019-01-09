@@ -1,0 +1,9 @@
+#/home/mateusz/Pobrane/sage-8.1-Ubuntu_16.04-x86_64/SageMath/src/bin/sage-ipython -i
+# GMT Fri May 25 11:50:40 2018
+# 
+1 2 4 5
+2 3 6
+3 4 6
+4 5
+5 6
+6

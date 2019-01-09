@@ -1,0 +1,13 @@
+#/home/mateusz/Pobrane/sage-8.1-Ubuntu_16.04-x86_64/SageMath/src/bin/sage-ipython -i
+# GMT Fri May 25 11:50:55 2018
+# RandomGNP(10,0.1)
+1 8 9
+2
+3
+4
+5 9
+6
+7
+8
+9
+10

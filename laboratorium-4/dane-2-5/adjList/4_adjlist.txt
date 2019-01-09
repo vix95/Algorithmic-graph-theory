@@ -1,0 +1,8 @@
+#/home/mateusz/Pobrane/sage-8.1-Ubuntu_16.04-x86_64/SageMath/src/bin/sage-ipython -i
+# GMT Fri May 25 11:50:39 2018
+# Mycielski Graph 3
+1 4 5
+2 3 5
+3 4
+4
+5

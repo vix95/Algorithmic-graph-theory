@@ -1,0 +1,11 @@
+Zeby uruchomic skrypt do sprawdzania trzeba w runTest.sh zedytowac druga linijke
+(wpisac tam nazwe skryptu w pythonie)
+
+Nastpnie w terminalu wejsc do katalogu ze skryptem i wpisac:
+$ chmod +x runTest.sh
+$ ./runTest.sh
+
+
+UWAGA
+Skrypt jest dostosoway pod linuksa. Na windowsie nie ruszy, a dodatkowo moze
+zepsuc plik - znak karetki.
